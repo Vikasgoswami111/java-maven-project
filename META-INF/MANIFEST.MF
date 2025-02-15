@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: test-automation-suite
+Bundle-SymbolicName: test-automation-suite
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: test.automation.suite
+Export-Package: Runner,
+ assesment.test_automation_suite,
+ steps
